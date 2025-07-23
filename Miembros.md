@@ -1,274 +1,236 @@
 Listados de miembros de la Federacion
 
 
-1.
-Comunidad: Satoshi Somos Todos  
+
+1.Comunidad: Satoshi Somos Todos  
 País: República Dominicana  
 Líderes / Fundadores: Tokio / Sandra 
 Enfoque: Proyecto Educativo & economía circular  
 Redes Sociales: https://linktr.ee/satoshisomostodos
 
-2.
-Comunidad: Cuba Bitcoin  
+2.Comunidad: Cuba Bitcoin  
 País: Cuba  
 Líderes / Fundadores: Forte / Catrya
 Enfoque: Proyecto Educativo / economía circular / Provedores de servicios 
 Redes Sociales: https://cubabitcoin.org/
 
-3.
-Comunidad: La Crypta  
+3.Comunidad: La Crypta  
 País: Argentina  
 Líderes / Fundadores: Agustin Kassis (Gorilla)
 Enfoque: Proyecto Educativo / economía circular / Provedores de servicios 
 Redes Sociales: https://linktr.ee/LaCryptaOk
 
-4.
-Comunidad: La Isla BTC 
+4.Comunidad: La Isla BTC 
 País: Cuba  
 Líderes / Fundadores: Yury
 Enfoque: Proyecto Educativo / economía circular 
 Redes Sociales: https://laislabtc.duckdns.org/
 
-5.
-Comunidad: Bitcoin Dominicana
+5.Comunidad: Bitcoin Dominicana
 País: Republica Dominicana
 Líderes / Fundadores: Pedro Vital
 Enfoque: Proyecto Educativo / economía circular 
 Redes Sociales: https://bitcoindominicana.com/
 
-6.
-Comunidad: Bitcoin Berlin
+6.Comunidad: Bitcoin Berlin
 País: El Salvador
 Líderes / Fundadores: Evelyn Lemus / Gerardo Linares
 Enfoque: Proyecto Educativo / economía circular  
 Redes Sociales: https://x.com/BitcoinBerlinSV
 
-7.
-Comunidad: Escuelita Bitcoin 
+7.Comunidad: Escuelita Bitcoin 
 País: Latinoamerica
 Líderes / Fundadores: Ernesto 
 Enfoque: Proyecto Educativo / economía circular  
 Redes Sociales: https://x.com/escuelitabtc
 
-8.
-Comunidad: Bitcoin Research 
+8.Comunidad: Bitcoin Research 
 País: Bolivia
 Líderes / Fundadores: Anonimo 
 Enfoque: Proyecto Educativo / economía circular  
 Redes Sociales: https://x.com/bitcoinr3
 
-9.
-Comunidad: bitfamily Innovations
+9.Comunidad: bitfamily Innovations
 País: Republica Dominicana
 Líderes / Fundadores: Duany Fermin / Magen Fermin / Javier Martinez 
 Enfoque: Proyecto Educativo
 Redes Sociales: https://x.com/BitfamilyRD
 
-10.
-Comunidad: Isla La Pirraya
+10.Comunidad: Isla La Pirraya
 País: El Salvador
 Líderes / Fundadores: Luis Satoshi 
 Enfoque: Proyecto Educativo
 Redes Sociales: https://x.com/Luis21satoshi
 
-11.
-Comunidad: Fundacion 21
+11.Comunidad: Fundacion 21
 País: El Salvador
 Líderes / Fundadores: Luis Satoshi 
 Enfoque: Proyecto Educativo
 Redes Sociales: https://x.com/Mission21fund
 
-12.
-Comunidad: La Casa De Satoshi
+12.Comunidad: La Casa De Satoshi
 País: Mexico
 Líderes / Fundadores: 
 Enfoque: Proyecto Educativo
 Redes Sociales: https://www.lacasadesatoshi.xyz/
 
-13.
-Comunidad: Casa Bitcoin Santa Ana
+13.Comunidad: Casa Bitcoin Santa Ana
 País: El Salvador
 Líderes / Fundadores: Juan Perucca
 Enfoque: Proyecto Educativo
 Redes Sociales: https://x.com/casab_sv
 
-14.
-Comunidad: Club Satoshi
+14.Comunidad: Club Satoshi
 País: Argentina
 Líderes / Fundadores: Anonimos
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://www.instagram.com/club.satoshi/
 
-15.
-Comunidad: Naguara Satoshi
+15.Comunidad: Naguara Satoshi
 País: Venezuela
 Líderes / Fundadores: Franklin Roldan
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://naguarasatoshi.com/
 
-16.
-Comunidad: ColombiaP2P
+16.Comunidad: ColombiaP2P
 País: Colombia
 Líderes / Fundadores: Ricardo
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://linktr.ee/colombiap2p
 
-17.
-Comunidad: Bitcoin Ruta de las Flores
+17.Comunidad: Bitcoin Ruta de las Flores
 País: El Salvador
 Líderes / Fundadores: Anonimo
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://x.com/RutadlasFlores
 
-18.
-Comunidad: MOTIV Perú
+18.Comunidad: MOTIV Perú
 País: Peru
 Líderes / Fundadores: Rich Swisher / Vali  Popescu
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://motiv.ngo/
 
-19.
-Comunidad: Bitcoin Mendoza
+19.Comunidad: Bitcoin Mendoza
 País: Argentina
 Líderes / Fundadores: Carlitos / Vanessa
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://www.bitcoinmendoza.ar/
 
-20.
-Comunidad: Orange Pill Peru
+20.Comunidad: Orange Pill Peru
 País: Peru
 Líderes / Fundadores: Carlitos / Vanessa
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://orangepillperu.com/
 
-21.
-Comunidad: Delgado's Fuego L.L.C.
+21.Comunidad: Delgado's Fuego L.L.C.
 País: Global
 Líderes / Fundadores: Jhonny Delgado
 Enfoque: Ventas de Productos
 Redes Sociales: https://delgadosfuego.com/btc
 
-22.
-Comunidad: 21 Bitcoin Academy 
+22.Comunidad: 21 Bitcoin Academy 
 País: Global
 Líderes / Fundadores:  Junior / Kike 
 Enfoque: Proyecto Educativo & web de recursos y productos para Bitcoiners
 Redes Sociales: https://21bitcoinacademy.com/
 
-23.
-Comunidad: Acepta Bitcoin C0
+23.Comunidad: Acepta Bitcoin C0
 País: Mexico
 Líderes / Fundadores: Tructor 21
 Enfoque: Proyecto educativo y adopción de bitcoin en negocios y comercios.
 Redes Sociales: https://aceptabitcoin.co/
 
-24.
-Comunidad: Lago Bitcoin
+24.Comunidad: Lago Bitcoin
 País: Guatemala
 Líderes / Fundadores: Eliazar
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: http://bitcoinlake.io/
 
-25.
-Comunidad: Yes Bitcoin Haiti
+25.Comunidad: Yes Bitcoin Haiti
 País: Haiti 
 Líderes / Fundadores: Armand Muli
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://x.com/yesbitcoinhaiti
 
-26.
-Comunidad: Mayas Bitcoiners
+26.Comunidad: Mayas Bitcoiners
 País: Guatemala 
 Líderes / Fundadores: Anonimo
 Enfoque: Proyecto Educativo 
 Redes Sociales: https://x.com/MayasBitcoiners
 
-27.
-Comunidad: Bitcoin Oriente
+27.Comunidad: Bitcoin Oriente
 País: El Salvador 
 Líderes / Fundadores: Alejandro Galan
 Enfoque: Proyecto Educativo 
 Redes Sociales: https://x.com/BitcoinOriente
 
-28.
-Comunidad: BitMaxis
+28.Comunidad: BitMaxis
 País: Ecuador
 Líderes / Fundadores: Man the Bitcoin
 Enfoque: Proyecto Educativo 
 Redes Sociales: https://comunidad.bitmaxis.com/
 
-29.
-Comunidad: The Bitcoin Hardware Store
+29.Comunidad: The Bitcoin Hardware Store
 País: El Salvador
 Líderes / Fundadores: Ronny Avendano
 Enfoque: Tienda de bitcoin / Proyecto Educativo 
 Redes Sociales: https://linktr.ee/TheBitcoinHardwareStore
 
-30.
-Comunidad: Bitcoin Netword Monterrey
+30.Comunidad: Bitcoin Netword Monterrey
 País: Mexico
 Líderes / Fundadores: Adrian Traviño
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://linktr.ee/btcnetworkmty
 
-31.
-Comunidad: Bitcoin Night
+31.Comunidad: Bitcoin Night
 País: Argentina
 Líderes / Fundadores: Max
 Enfoque: Bitcoin Night es un evento para promover el uso de Bitcoin
 Redes Sociales: https://x.com/bitcoin_night
 
-32.
-Comunidad: Opt Out Conf
+32.Comunidad: Opt Out Conf
 País: Argentina
 Líderes / Fundadores: Max
 Enfoque: Conferencia sobre Bitcoin
 Redes Sociales: https://x.com/OptOutConf
 
-33.
-Comunidad: Bitcoin Reef
+33.Comunidad: Bitcoin Reef
 País: Curaçao
 Líderes / Fundadores: Peter Kroll
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://x.com/BtcCuracao
 
-34.
-Comunidad: Bitcoin Aruba
+34.Comunidad: Bitcoin Aruba
 País: Aruba
 Líderes / Fundadores: Yury
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://x.com/BitcoinAruba
 
-35.
-Comunidad: Reto Bitcoin
+35.Comunidad: Reto Bitcoin
 País: Global
 Líderes / Fundadores: Daniel Pelaez
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://x.com/i/communities/1874579471568601424
 
-36.
-Comunidad: Bullish Guate
+36.Comunidad: Bullish Guate
 País: Global
 Líderes / Fundadores: Ruddy
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://www.bullishguate.com/
 
-37.
-Comunidad: Viva Bitcoin
+37.Comunidad: Viva Bitcoin
 País: Estados Unidos
 Líderes / Fundadores: Tonny
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://viva-bitcoin.com/
 
-38.
-Comunidad: Mayan Bitcoin
+38.Comunidad: Mayan Bitcoin
 País: Mexico
 Líderes / Fundadores: Amanda
 Enfoque: Proyecto Educativo / economía circular
 Redes Sociales: https://x.com/mayanbitcoin
 
-39.
-Comunidad: Bitcoin Nea
+39.Comunidad: Bitcoin Nea
 País: Mexico
 Líderes / Fundadores: Joy Koloff 
 Enfoque: Proyecto Educativo / economía circular
