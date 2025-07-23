@@ -1,4 +1,4 @@
-#                             Federación Latinoamericana de Bitcoiners (FLB)
+# Federación Latinoamericana de Bitcoiners (FLB)
 
 <img width="1472" height="832" alt="4" src="https://github.com/user-attachments/assets/fa026955-0297-43c1-bbe5-93b4b2a7300c" />
 
