@@ -1,4 +1,4 @@
-# 🇱🇻 Federación Latinoamericana de Bitcoiners (FLB)
+# Federación Latinoamericana de Bitcoiners (FLB)
 
 **La FLB es una red de comunidades soberanas que promueven el uso y adopción de Bitcoin en América Latina y el Caribe.**
 
