@@ -24,7 +24,7 @@ Cada comunidad es autónoma, pero compartimos principios comunes de cooperación
 ## 🧱 Manifiesto
 
 Puedes leer nuestro manifiesto completo aquí:  
-👉 [`MANIFIESTO.md`](./MANIFIESTO.md)
+👉 [`Manifiesto.md`](./MANIFIESTO.md)
 
 ---
 
