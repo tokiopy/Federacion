@@ -27,7 +27,7 @@ Cada comunidad es autónoma, pero compartimos principios comunes de cooperación
 ## 🧱 Manifiesto
 
 Puedes leer nuestro manifiesto completo aquí:  
-👉 [`Manifiesto.md`](./MANIFIESTO.md)
+👉 [`Manifiesto.md`](1.Manifiesto.md)
 
 ---
 
@@ -46,7 +46,7 @@ Si lideras una comunidad, iniciativa o proyecto con estos valores, escríbenos o
 ## 📋 Comunidades Federadas
 
 Puedes ver el listado completo de comunidades en:  
-👉 [`/comunidades.md`](./comunidades.md) *(o el archivo correspondiente que subas)*
+👉 [`/comunidades.md`](2.Miembros.md)
 
 ---
 
