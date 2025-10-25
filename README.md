@@ -46,7 +46,7 @@ Si lideras una comunidad, iniciativa o proyecto con estos valores, escríbenos o
 ## 📋 Comunidades Federadas
 
 Puedes ver el listado completo de comunidades en:  
-👉 [`/comunidades.md`](./comunidades.md) *(o el archivo correspondiente que subas)*
+👉 [`/comunidades.md`](2.Miembros.md)
 
 ---
 
