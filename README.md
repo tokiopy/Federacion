@@ -1,5 +1,7 @@
 # Federación Latinoamericana de Bitcoiners (FLB)
 
+<img width="1472" height="832" alt="4" src="https://github.com/user-attachments/assets/fa026955-0297-43c1-bbe5-93b4b2a7300c" />
+
 **La FLB es una red de comunidades soberanas que promueven el uso y adopción de Bitcoin en América Latina y el Caribe.**
 
 ---
@@ -24,7 +26,7 @@ Cada comunidad es autónoma, pero compartimos principios comunes de cooperación
 ## 🧱 Manifiesto
 
 Puedes leer nuestro manifiesto completo aquí:  
-👉 [`Manifiesto.md`](./MANIFIESTO.md)
+👉 [Manifiesto](1.Manifiesto.md)
 
 ---
 
@@ -43,7 +45,7 @@ Si lideras una comunidad, iniciativa o proyecto con estos valores, escríbenos o
 ## 📋 Comunidades Federadas
 
 Puedes ver el listado completo de comunidades en:  
-👉 [`/comunidades.md`](./comunidades.md) *(o el archivo correspondiente que subas)*
+👉 [Comunidades](2.Miembros.md)
 
 ---
 
